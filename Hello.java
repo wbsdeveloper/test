@@ -5,7 +5,6 @@
 		 System.out.println("中华人民共和国");
 
 
-		 System.out.println("中华人民共和国");
 
 		 System.out.println("中华人民共和国");
 	}
