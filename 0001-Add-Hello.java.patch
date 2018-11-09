@@ -1,0 +1,40 @@
+From c0175cead0ad92cc43e66488355255ed6a91600a Mon Sep 17 00:00:00 2001
+From: wbs <wbssupervisor@163.com>
+Date: Fri, 9 Nov 2018 16:56:06 +0800
+Subject: [PATCH] Add Hello.java
+
+---
+ Hello.java | 17 +++++------------
+ 1 file changed, 5 insertions(+), 12 deletions(-)
+
+diff --git a/Hello.java b/Hello.java
+index af55a33..3a05a39 100644
+--- a/Hello.java
++++ b/Hello.java
+@@ -1,17 +1,10 @@
+ ﻿public class Hello{
+     public static void main(String[] args) {
+-		 System.out.println("Hello Java");
+-
+-		 System.out.println("中华人民共和国");
+-
+-		 System.out.println("中华人民共和国");
+-
+-		 Runtime run = Runtime.getRuntime();
+-		 run.gc();
+-
+-		 System.out.println("在master分支上对Hello.java做了修改！！"); 	
+-
+-		 System.out.println("在dev分支上修改了此文件内容。。。");			
++		 	System.out.println("Hello Java");
++			System.out.println("Hello www.ylkej.com");
++			System.out.println("www.163.com");
++			System.out.println("wbssuperviosr@163.com");
++		 	
+ 	}
+ 
+ }
+\ No newline at end of file
+-- 
+2.19.1.windows.1
+
