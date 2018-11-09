@@ -6,10 +6,12 @@
 
 		 System.out.println("中华人民共和国");
 
- 		
-		
+
+		 Runtime run = Runtime.getRuntime();
+		 run.gc();
+
+		 System.out.println("在master分支上对Hello.java做了修改！！"); 	
 			
 	}
-
 
 }
